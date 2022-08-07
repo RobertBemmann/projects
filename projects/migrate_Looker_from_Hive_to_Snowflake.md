@@ -1,14 +1,18 @@
-# Title
+# Migrate Looker (self-service BI tool) from Hive (Databricks) to Snowflake
 
-*[Situation](#situation)
-*[Task](#task)
-*[Action](#action)
-*[Result](#result)
+*[Project](#project)  
+  *[Situation](#situation)  
+  *[Task](#task)  
+  *[Action](#action)  
+  *[Result](#result)  
+    * [Learnings](##learnings) 
 
-# Situation 
+# Project 
+## Situation 
 
-# Task 
+## Task 
 
-# Action 
+## Action 
 
-# Result
+## Result
+### Learnings
