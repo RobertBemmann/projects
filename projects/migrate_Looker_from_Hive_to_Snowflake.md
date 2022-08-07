@@ -14,7 +14,9 @@ The Data Platform team is responsible for providing the company with quick acces
 
 migrate all of our Looker projects from an Apache Spark/Hive connection (Databricks) to Snowflake.
 
-*Challenges we faced with the existing setup*
+![Data Platform Architecture, 2019](projects/pictures/dp-architecture.png)
+
+**Challenges we faced with the existing setup**
 * Looker query performance was slow with Spark
 * Increased resources for manual cluster management on Databricks for Looker workload in order to improve performance -> more costs 
 * No indexing in Hive/Spark SQL, partitioning requires engineering times and achieved limited results 
