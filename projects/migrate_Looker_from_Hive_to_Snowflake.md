@@ -16,6 +16,8 @@ migrate all of our Looker projects from an Apache Spark/Hive connection (Databri
 
 ![Data Platform Architecture, 2019](dp-architecture.png)
 
+**Add simplified mermaid flowchart here** 
+
 **Challenges we faced with the existing setup**
 * Looker query performance was slow with Spark
 * Increased resources for manual cluster management on Databricks for Looker workload in order to improve performance -> more costs 
